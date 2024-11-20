@@ -1,0 +1,10 @@
+Tomate;190;5
+Pepino;80;3
+Alface;250;2
+Abobrinha;60;6
+Batata;300;4
+Pimentao;90;3
+Banana;60;7
+Laranja;80;4
+
+
